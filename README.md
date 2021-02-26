@@ -1,18 +1,40 @@
-<img align="right" width="338" height="490" src="https://github.com/Maaato/Maaato/blob/master/img/bgp.jpg">
+> Hi there, I’m **[Maaato](https://maaato.vercel.app)**, Full-stack software developer and a programming enthusiast. 
 
+> I have experience in:  `Angular`, `React`, `Java`, `Nodejs`, `Spring Boot`, `Nestjs`, `APIM`, `SQL` and `Git`.
 
-# Hi, I'm a developer ♥
+> I know about: `Cloud Computing`, `Software Architecture`, `Microservices`, `Development Frameworks`, `Projects Management Software` and `APIs`.
 
-[![Generic badge](https://img.shields.io/badge/Maaato-v1.0-brightgreen.svg)](https://shields.io/)
-[![Github](https://img.shields.io/github/followers/Maaato?style=social)](https://github.com/Maaato)
-[![Github](https://img.shields.io/github/last-commit/Maaato/Maaato)](https://github.com/Maaato/Maaato)
-
-## About me
-
-- I am a backend developer. I design, build and deploy APIs ♥
-
-- I love coding, play video games and drink water 💁
-
-- graphic design is my passion 👉
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maaato&show_icons=true&theme=tokyonight)
+> I’m currently working in [`Altiuz`](https://altiuz.cl).
+> 
+<div align="center">
+   <details>
+      <summary>Additonal Information</summary><br/>
+     <p><strong>💻 GitHub Profile Stats 💻</strong></p>
+   <table>
+      <tr>
+         <td>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" alt="Maaato's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maaato&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            </a>
+         </td>
+         <td>
+            <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+            <img align="center" alt="Maaato' Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Maaato&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
+            </a>
+         </td>
+      </tr>
+      <tr>
+         <td>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" alt="Maaato's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaato&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            </a>
+         </td>
+         <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" alt="Maaato's Github Stats" src="https://camo.githubusercontent.com/4909b99c33b079bca6178a2199bb9633e3590f9d4c623429093140cbb33d1a1f/68747470733a2f2f6d6574726963732e6c65636f712e696f2f4d616161746f"/>
+            </a>          
+         </td>
+      </tr>
+   </table>
+</details>
+<div/>
