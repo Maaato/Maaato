@@ -4,12 +4,11 @@
 
 > I know about: `Cloud Computing`, `Software Architecture`, `Microservices`, `Development Frameworks`, `Projects Management Software` and `APIs`.
 
-> I’m currently working in [`Altiuz`](https://altiuz.cl).
+> I’m currently working in Banco Ripley.
 > 
 <div align="center">
    <details>
-      <summary>Additonal Information</summary><br/>
-     <p><strong>💻 GitHub Profile Stats 💻</strong></p>
+      <summary>GitHub Profile Stats</summary><br/>
    <table>
       <tr>
          <td>
